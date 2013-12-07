@@ -40,6 +40,7 @@ local.properties
 
 # Magento specifig
 .modgit/
+.vagrant/
 app/etc/local.xml
 downloader/
 errors/

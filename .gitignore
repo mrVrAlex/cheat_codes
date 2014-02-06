@@ -37,6 +37,7 @@ local.properties
 .toprc
 .viminfo
 *.sublime-workspace
+sftp-config.json
 
 # Magento specifig
 .modgit/
